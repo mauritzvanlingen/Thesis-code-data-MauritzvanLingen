@@ -1,0 +1,143 @@
+[ INFO ] at: 2023-04-08 08:59:09,707 Creating Inference Engine...
+[ INFO ] at: 2023-04-08 08:59:09,708 Loading network
+[ INFO ] at: 2023-04-08 08:59:09,777 Preparing inputs
+[ INFO ] at: 2023-04-08 08:59:09,777 Loading model to the plugin
+[ INFO ] at: 2023-04-08 08:59:09,866 Detecting objects in : Screenshot 2023-04-05 223956.jpg
+[ INFO ] at: 2023-04-08 08:59:09,872 Starting inference...
+[ INFO ] at: 2023-04-08 08:59:09,890 Inference Time was 0.01656712499971036 Seconds
+[ INFO ] at: 2023-04-08 08:59:09,890 (1, 3, 512, 512)
+[ INFO ] at: 2023-04-08 08:59:09,890 (683, 1068, 3)
+[ INFO ] at: 2023-04-08 08:59:09,908 Detecting objects in : Screenshot 2023-04-05 221718.jpg
+[ INFO ] at: 2023-04-08 08:59:09,911 Starting inference...
+[ INFO ] at: 2023-04-08 08:59:09,927 Inference Time was 0.014353394999488955 Seconds
+[ INFO ] at: 2023-04-08 08:59:09,927 (1, 3, 512, 512)
+[ INFO ] at: 2023-04-08 08:59:09,927 (601, 812, 3)
+[ INFO ] at: 2023-04-08 08:59:09,945 Detecting objects in : Screenshot 2023-04-05 230804.jpg
+[ INFO ] at: 2023-04-08 08:59:09,952 Starting inference...
+[ INFO ] at: 2023-04-08 08:59:09,967 Inference Time was 0.013965424999696552 Seconds
+[ INFO ] at: 2023-04-08 08:59:09,967 (1, 3, 512, 512)
+[ INFO ] at: 2023-04-08 08:59:09,967 (837, 1109, 3)
+[ INFO ] at: 2023-04-08 08:59:09,978  Class ID | Confidence | XMIN | YMIN | XMAX | YMAX | COLOR 
+[ INFO ] at: 2023-04-08 08:59:09,978     0     |   0.419139 |  354 |  394 |  426 |  458 | (0.0, 0, 0) 
+[ INFO ] at: 2023-04-08 08:59:09,978     0     |   0.329684 |  329 |  297 |  414 |  351 | (0.0, 0, 0) 
+[ INFO ] at: 2023-04-08 08:59:09,978     0     |   0.085932 |  138 |  311 |  230 |  362 | (0.0, 0, 0) 
+[ INFO ] at: 2023-04-08 08:59:09,990 Detecting objects in : Screenshot 2023-04-05 231916.jpg
+[ INFO ] at: 2023-04-08 08:59:09,994 Starting inference...
+[ INFO ] at: 2023-04-08 08:59:10,010 Inference Time was 0.01539031399988744 Seconds
+[ INFO ] at: 2023-04-08 08:59:10,010 (1, 3, 512, 512)
+[ INFO ] at: 2023-04-08 08:59:10,010 (639, 1028, 3)
+[ INFO ] at: 2023-04-08 08:59:10,022  Class ID | Confidence | XMIN | YMIN | XMAX | YMAX | COLOR 
+[ INFO ] at: 2023-04-08 08:59:10,022     0     |   0.462506 |  271 |  361 |  340 |  419 | (0.0, 0, 0) 
+[ INFO ] at: 2023-04-08 08:59:10,022     0     |   0.251942 |  258 |  270 |  345 |  320 | (0.0, 0, 0) 
+[ INFO ] at: 2023-04-08 08:59:10,022     0     |   0.130003 |   99 |  281 |  177 |  330 | (0.0, 0, 0) 
+[ INFO ] at: 2023-04-08 08:59:10,022     0     |   0.051444 |  205 |  270 |  287 |  320 | (0.0, 0, 0) 
+[ INFO ] at: 2023-04-08 08:59:10,031 Detecting objects in : Screenshot 2023-04-05 233009.jpg
+[ INFO ] at: 2023-04-08 08:59:10,035 Starting inference...
+[ INFO ] at: 2023-04-08 08:59:10,050 Inference Time was 0.01454730300065421 Seconds
+[ INFO ] at: 2023-04-08 08:59:10,050 (1, 3, 512, 512)
+[ INFO ] at: 2023-04-08 08:59:10,050 (638, 1023, 3)
+[ INFO ] at: 2023-04-08 08:59:10,061  Class ID | Confidence | XMIN | YMIN | XMAX | YMAX | COLOR 
+[ INFO ] at: 2023-04-08 08:59:10,061     0     |   0.218039 |   73 |  339 |  157 |  389 | (0.0, 0, 0) 
+[ INFO ] at: 2023-04-08 08:59:10,069 Detecting objects in : Screenshot 2023-04-05 232817.jpg
+[ INFO ] at: 2023-04-08 08:59:10,073 Starting inference...
+[ INFO ] at: 2023-04-08 08:59:10,090 Inference Time was 0.016439557999547105 Seconds
+[ INFO ] at: 2023-04-08 08:59:10,090 (1, 3, 512, 512)
+[ INFO ] at: 2023-04-08 08:59:10,091 (735, 1046, 3)
+[ INFO ] at: 2023-04-08 08:59:10,110 Detecting objects in : Screenshot 2023-04-05 221037.jpg
+[ INFO ] at: 2023-04-08 08:59:10,115 Starting inference...
+[ INFO ] at: 2023-04-08 08:59:10,130 Inference Time was 0.015154685999732465 Seconds
+[ INFO ] at: 2023-04-08 08:59:10,131 (1, 3, 512, 512)
+[ INFO ] at: 2023-04-08 08:59:10,131 (699, 1002, 3)
+[ INFO ] at: 2023-04-08 08:59:10,142  Class ID | Confidence | XMIN | YMIN | XMAX | YMAX | COLOR 
+[ INFO ] at: 2023-04-08 08:59:10,142     0     |   0.056013 |  335 |  115 |  399 |  165 | (0.0, 0, 0) 
+[ INFO ] at: 2023-04-08 08:59:10,142     0     |   0.055854 |    0 |  147 |   42 |  202 | (0.0, 0, 0) 
+[ INFO ] at: 2023-04-08 08:59:10,151 Detecting objects in : Screenshot 2023-04-05 231606.jpg
+[ INFO ] at: 2023-04-08 08:59:10,156 Starting inference...
+[ INFO ] at: 2023-04-08 08:59:10,171 Inference Time was 0.014658435000455938 Seconds
+[ INFO ] at: 2023-04-08 08:59:10,171 (1, 3, 512, 512)
+[ INFO ] at: 2023-04-08 08:59:10,171 (675, 1023, 3)
+[ INFO ] at: 2023-04-08 08:59:10,182  Class ID | Confidence | XMIN | YMIN | XMAX | YMAX | COLOR 
+[ INFO ] at: 2023-04-08 08:59:10,183     0     |   0.134555 |    0 |  130 |   97 |  179 | (0.0, 0, 0) 
+[ INFO ] at: 2023-04-08 08:59:10,183     0     |   0.090115 |  224 |  103 |  306 |  151 | (0.0, 0, 0) 
+[ INFO ] at: 2023-04-08 08:59:10,183     0     |   0.062111 |  161 |  138 |  258 |  183 | (0.0, 0, 0) 
+[ INFO ] at: 2023-04-08 08:59:10,190 Detecting objects in : Screenshot 2023-04-05 221933.jpg
+[ INFO ] at: 2023-04-08 08:59:10,194 Starting inference...
+[ INFO ] at: 2023-04-08 08:59:10,210 Inference Time was 0.015757625000333064 Seconds
+[ INFO ] at: 2023-04-08 08:59:10,210 (1, 3, 512, 512)
+[ INFO ] at: 2023-04-08 08:59:10,210 (639, 990, 3)
+[ INFO ] at: 2023-04-08 08:59:10,225  Class ID | Confidence | XMIN | YMIN | XMAX | YMAX | COLOR 
+[ INFO ] at: 2023-04-08 08:59:10,225     0     |   0.093004 |  519 |  150 |  580 |  203 | (0.0, 0, 0) 
+[ INFO ] at: 2023-04-08 08:59:10,233 Detecting objects in : Screenshot 2023-04-05 232514.jpg
+[ INFO ] at: 2023-04-08 08:59:10,236 Starting inference...
+[ INFO ] at: 2023-04-08 08:59:10,252 Inference Time was 0.01490831299997808 Seconds
+[ INFO ] at: 2023-04-08 08:59:10,252 (1, 3, 512, 512)
+[ INFO ] at: 2023-04-08 08:59:10,252 (632, 1004, 3)
+[ INFO ] at: 2023-04-08 08:59:10,263  Class ID | Confidence | XMIN | YMIN | XMAX | YMAX | COLOR 
+[ INFO ] at: 2023-04-08 08:59:10,263     0     |   0.309424 |  196 |  263 |  266 |  317 | (0.0, 0, 0) 
+[ INFO ] at: 2023-04-08 08:59:10,263     0     |   0.276629 |    4 |  273 |   72 |  324 | (0.0, 0, 0) 
+[ INFO ] at: 2023-04-08 08:59:10,263     0     |   0.265670 |  196 |  338 |  263 |  391 | (0.0, 0, 0) 
+[ INFO ] at: 2023-04-08 08:59:10,271 Detecting objects in : Screenshot 2023-04-05 230036.jpg
+[ INFO ] at: 2023-04-08 08:59:10,275 Starting inference...
+[ INFO ] at: 2023-04-08 08:59:10,292 Inference Time was 0.01594483500048227 Seconds
+[ INFO ] at: 2023-04-08 08:59:10,292 (1, 3, 512, 512)
+[ INFO ] at: 2023-04-08 08:59:10,292 (735, 1132, 3)
+[ INFO ] at: 2023-04-08 08:59:10,311 Detecting objects in : Screenshot 2023-04-05 232031.jpg
+[ INFO ] at: 2023-04-08 08:59:10,315 Starting inference...
+[ INFO ] at: 2023-04-08 08:59:10,332 Inference Time was 0.016321131000950118 Seconds
+[ INFO ] at: 2023-04-08 08:59:10,332 (1, 3, 512, 512)
+[ INFO ] at: 2023-04-08 08:59:10,332 (770, 978, 3)
+[ INFO ] at: 2023-04-08 08:59:10,343  Class ID | Confidence | XMIN | YMIN | XMAX | YMAX | COLOR 
+[ INFO ] at: 2023-04-08 08:59:10,343     0     |   0.213085 |  220 |  249 |  298 |  298 | (0.0, 0, 0) 
+[ INFO ] at: 2023-04-08 08:59:10,343     0     |   0.145284 |  218 |  312 |  292 |  361 | (0.0, 0, 0) 
+[ INFO ] at: 2023-04-08 08:59:10,343     0     |   0.110192 |  221 |  281 |  296 |  330 | (0.0, 0, 0) 
+[ INFO ] at: 2023-04-08 08:59:10,343     0     |   0.074659 |  223 |  344 |  301 |  394 | (0.0, 0, 0) 
+[ INFO ] at: 2023-04-08 08:59:10,343     0     |   0.069402 |  282 |  160 |  354 |  209 | (0.0, 0, 0) 
+[ INFO ] at: 2023-04-08 08:59:10,351 Detecting objects in : Screenshot 2023-04-05 232304.jpg
+[ INFO ] at: 2023-04-08 08:59:10,355 Starting inference...
+[ INFO ] at: 2023-04-08 08:59:10,373 Inference Time was 0.01748682700053905 Seconds
+[ INFO ] at: 2023-04-08 08:59:10,373 (1, 3, 512, 512)
+[ INFO ] at: 2023-04-08 08:59:10,373 (676, 903, 3)
+[ INFO ] at: 2023-04-08 08:59:10,390 Detecting objects in : Screenshot 2023-04-05 225015.jpg
+[ INFO ] at: 2023-04-08 08:59:10,394 Starting inference...
+[ INFO ] at: 2023-04-08 08:59:10,412 Inference Time was 0.016718770000807126 Seconds
+[ INFO ] at: 2023-04-08 08:59:10,412 (1, 3, 512, 512)
+[ INFO ] at: 2023-04-08 08:59:10,412 (824, 1024, 3)
+[ INFO ] at: 2023-04-08 08:59:10,428  Class ID | Confidence | XMIN | YMIN | XMAX | YMAX | COLOR 
+[ INFO ] at: 2023-04-08 08:59:10,428     0     |   0.469983 |  371 |  396 |  436 |  456 | (0.0, 0, 0) 
+[ INFO ] at: 2023-04-08 08:59:10,428     0     |   0.240614 |  368 |  310 |  445 |  363 | (0.0, 0, 0) 
+[ INFO ] at: 2023-04-08 08:59:10,438 Detecting objects in : Screenshot 2023-04-05 223822.jpg
+[ INFO ] at: 2023-04-08 08:59:10,442 Starting inference...
+[ INFO ] at: 2023-04-08 08:59:10,459 Inference Time was 0.015241785000398522 Seconds
+[ INFO ] at: 2023-04-08 08:59:10,460 (1, 3, 512, 512)
+[ INFO ] at: 2023-04-08 08:59:10,460 (756, 1062, 3)
+[ INFO ] at: 2023-04-08 08:59:10,479 Detecting objects in : Screenshot 2023-04-05 225635.jpg
+[ INFO ] at: 2023-04-08 08:59:10,483 Starting inference...
+[ INFO ] at: 2023-04-08 08:59:10,499 Inference Time was 0.015292739999495097 Seconds
+[ INFO ] at: 2023-04-08 08:59:10,499 (1, 3, 512, 512)
+[ INFO ] at: 2023-04-08 08:59:10,499 (741, 946, 3)
+[ INFO ] at: 2023-04-08 08:59:10,509  Class ID | Confidence | XMIN | YMIN | XMAX | YMAX | COLOR 
+[ INFO ] at: 2023-04-08 08:59:10,509     0     |   0.340735 |  288 |   85 |  380 |  152 | (0.0, 0, 0) 
+[ INFO ] at: 2023-04-08 08:59:10,509     0     |   0.087594 |  282 |  192 |  352 |  243 | (0.0, 0, 0) 
+[ INFO ] at: 2023-04-08 08:59:10,517 Detecting objects in : Screenshot 2023-04-05 223648.jpg
+[ INFO ] at: 2023-04-08 08:59:10,520 Starting inference...
+[ INFO ] at: 2023-04-08 08:59:10,539 Inference Time was 0.017991312999583897 Seconds
+[ INFO ] at: 2023-04-08 08:59:10,539 (1, 3, 512, 512)
+[ INFO ] at: 2023-04-08 08:59:10,539 (620, 913, 3)
+[ INFO ] at: 2023-04-08 08:59:10,549  Class ID | Confidence | XMIN | YMIN | XMAX | YMAX | COLOR 
+[ INFO ] at: 2023-04-08 08:59:10,549     0     |   0.265363 |  436 |  278 |  493 |  329 | (0.0, 0, 0) 
+[ INFO ] at: 2023-04-08 08:59:10,555 Detecting objects in : Screenshot 2023-04-05 224806.jpg
+[ INFO ] at: 2023-04-08 08:59:10,560 Starting inference...
+[ INFO ] at: 2023-04-08 08:59:10,583 Inference Time was 0.022106986998551292 Seconds
+[ INFO ] at: 2023-04-08 08:59:10,583 (1, 3, 512, 512)
+[ INFO ] at: 2023-04-08 08:59:10,583 (774, 1051, 3)
+[ INFO ] at: 2023-04-08 08:59:10,595  Class ID | Confidence | XMIN | YMIN | XMAX | YMAX | COLOR 
+[ INFO ] at: 2023-04-08 08:59:10,595     0     |   0.308341 |  268 |  272 |  349 |  315 | (0.0, 0, 0) 
+[ INFO ] at: 2023-04-08 08:59:10,595     0     |   0.075455 |  451 |  252 |  553 |  301 | (0.0, 0, 0) 
+[ INFO ] at: 2023-04-08 08:59:10,595     0     |   0.060709 |  464 |  346 |  549 |  395 | (0.0, 0, 0) 
+[ INFO ] at: 2023-04-08 08:59:10,604 Detecting objects in : Screenshot 2023-04-05 232630.jpg
+[ INFO ] at: 2023-04-08 08:59:10,609 Starting inference...
+[ INFO ] at: 2023-04-08 08:59:10,627 Inference Time was 0.016900880998946377 Seconds
+[ INFO ] at: 2023-04-08 08:59:10,627 (1, 3, 512, 512)
+[ INFO ] at: 2023-04-08 08:59:10,627 (786, 996, 3)
+[ INFO ] at: 2023-04-08 08:59:10,638  Class ID | Confidence | XMIN | YMIN | XMAX | YMAX | COLOR 
+[ INFO ] at: 2023-04-08 08:59:10,638     0     |   0.084695 |  126 |  252 |  212 |  300 | (0.0, 0, 0) 
